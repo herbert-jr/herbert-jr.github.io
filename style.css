@@ -2,6 +2,11 @@ h1 {
    text-align: center;
 }
 
-h4{
+p{
     text-align: center;
+    font-family: monospace;
+}
+
+.perfil {
+    border-radius: 50%;
 }
