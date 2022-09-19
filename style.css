@@ -9,4 +9,12 @@ p{
 
 .perfil {
     border-radius: 50%;
+    color: #fff;
+    position:50%;
+}
+
+body{
+    background-image: url(cool-background.png);
+    background-size: cover;
+    color: #fff;
 }
